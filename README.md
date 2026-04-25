@@ -18,3 +18,4 @@ Group activity to familiarize with git
 - <alias of developer>
 -Muhsin push try 1
 - faizal
+- Shen Yean
